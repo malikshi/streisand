@@ -42,7 +42,7 @@
 
     - name: "do_server_name"
       prompt: "\nWhat should the server be named? Press enter for default (streisand).\n"
-      default: "streisand"
+      default: "synricha"
       private: no
 
     - name: "do_access_token_entry"
